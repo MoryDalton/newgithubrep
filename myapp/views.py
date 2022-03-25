@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 
 def home(reuest):
-    return HttpResponse('hello mory from vscode')
+    return HttpResponse('hello mory from vscode for second time')
